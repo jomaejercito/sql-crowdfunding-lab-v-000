@@ -31,8 +31,7 @@ INSERT INTO users (id, name, age) VALUES
 (17, "Alessandro", 24),
 (18, "Crystal", 25),
 (19, "Daniel", 24),
-(20, "Gabe", 25)
-;
+(20, "Gabe", 25);
 
 
 INSERT INTO pledges (id, amount, user_id, project_id) VALUES
@@ -65,5 +64,4 @@ INSERT INTO pledges (id, amount, user_id, project_id) VALUES
 (27, 10, 7, 4),
 (28, 10, 8, 9),
 (29, 10, 11, 10),
-(30, 10, 16, 6)
-;
+(30, 10, 16, 6);
