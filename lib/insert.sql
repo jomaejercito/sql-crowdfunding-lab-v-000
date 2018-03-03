@@ -1,7 +1,7 @@
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES
 (1, 'BEING BEBE | The BeBe Zahara Benet Documentary', 'documentary', 33000, '2018-03-01', '2018-03-31'),
 (2, 'Philosophy Feud: Freud vs Jung – a short animation', 'animation', 15000, '2018-02-18', '2018-03-19'),
-(3, 'Write On! The Legend of Hip-Hop\'s Ink Slingers', 'documentary', 15000, '2018-02-09', '2018-03-09'),
+(3, 'Write On! The Legend of Hip-Hops Ink Slingers', 'documentary', 15000, '2018-02-09', '2018-03-09'),
 (4, 'Batman™: Gotham City Chronicles', 'tabletop games', 500000, '2018-02-27', '2018-03-31'),
 (5, 'Rite Press — The No Mess French Press', 'product design', 20000, '2018-01-23', '2018-03-09'),
 (6, 'Kombuis a portable and efficient rocket stove / cooking set.', 'product design', 36955, '2018-02-22', '2018-03-29'),
