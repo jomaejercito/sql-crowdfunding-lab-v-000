@@ -1,5 +1,3 @@
-insert
-
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES
 (1, 'BEING BEBE | The BeBe Zahara Benet Documentary', 'documentary', 33000, '2018-03-01', '2018-03-31'),
 (2, 'Philosophy Feud: Freud vs Jung – a short animation', 'animation', 15000, '2018-02-18', '2018-03-19'),
